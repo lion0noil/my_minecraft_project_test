@@ -2,6 +2,7 @@ package net.lion.projectmod;
 
 import com.mojang.logging.LogUtils;
 import net.lion.projectmod.block.ModBlocks;
+import net.lion.projectmod.item.ModCreativeModeTabs;
 import net.lion.projectmod.item.ModItems;
 import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.CreativeModeTabs;
@@ -35,6 +36,8 @@ public class ProjectMod {
 
         // Register ourselves for server and other game events we are interested in
         MinecraftForge.EVENT_BUS.register(this);
+
+        ModCreativeModeTabs.register(modEventBus);
 
         ModItems.register(modEventBus);
         ModBlocks.register(modEventBus);
