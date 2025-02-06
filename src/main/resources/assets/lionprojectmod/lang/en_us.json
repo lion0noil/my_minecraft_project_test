@@ -4,6 +4,8 @@
 
   "block.lionprojectmod.alexandrite_block": "Block of Alexandrite",
   "block.lionprojectmod.raw_alexandrite_block": "Block of Raw Alexandrite",
+  "block.lionprojectmod.alexandrite_ore": "Alexandrite Ore",
+  "block.lionprojectmod.alexandrite_deepslate_ore": "Alexandrite Deepslate Ore",
 
   "creative.lionprojectmod.alexandrite_items": "Alexandrite Items",
   "creative.lionprojectmod.alexandrite_blocks": "Alexandrite Blocks"
