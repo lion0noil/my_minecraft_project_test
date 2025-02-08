@@ -13,5 +13,13 @@
   "block.lionprojectmod.magic_block": "Magic Block",
 
   "creative.lionprojectmod.alexandrite_items": "Alexandrite Items",
-  "creative.lionprojectmod.alexandrite_blocks": "Alexandrite Blocks"
+  "creative.lionprojectmod.alexandrite_blocks": "Alexandrite Blocks",
+
+  "tooltip.lionprojectmod.magic_box.tooltip": "This Block is quite §9MAGICAL§r",
+
+  "tooltip.lionprojectmod.chisel.shift_down": "This Item changes certain Blocks",
+  "tooltip.lionprojectmod.chisel": "Press §eShift§r for more Information!",
+
+  "tooltip.lionprojectmod.kohlrabi": "This tastes GREAT!"
+
 }
