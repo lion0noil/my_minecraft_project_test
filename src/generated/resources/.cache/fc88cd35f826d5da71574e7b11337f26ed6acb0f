@@ -1,0 +1,4 @@
+// 1.21	2025-02-08T16:33:33.5265308	Tags for minecraft:block mod id lionprojectmod
+e88e4139aa6707c629755e5190bdb9a167cde65b data/minecraft/tags/block/mineable/pickaxe.json
+b2cdd18a3c776427b2e03c9b0b982e8f1052df91 data/minecraft/tags/block/needs_diamond_tool.json
+35175b50a9fad1ed5680310e1a60cf9875c23e88 data/minecraft/tags/block/needs_iron_tool.json
