@@ -45,6 +45,17 @@ public class ModCreativeModeTabs {
                     }).build());
 
 
+    public static final RegistryObject<CreativeModeTab> NORTHERN_THAI_FOOD = CREATIVE_MODE_TABS.register("northern_thai_food",
+            () -> CreativeModeTab.builder().icon(() ->new ItemStack(ModItems.KOHLRABI.get()))
+                    .withTabsBefore(ALEXANDRITE_BLOCKS_TAB.getId())
+                    .title(Component.translatable("creative.lionprojectmod.northern_thai_food"))
+                    .displayItems((itemDisplayParameters, output) -> {
+                        output.accept(ModItems.KOHLRABI.get());
+
+
+                    }).build());
+
+
     public static void register(IEventBus eventBus) {
         CREATIVE_MODE_TABS.register(eventBus);
     }

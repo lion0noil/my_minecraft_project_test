@@ -1,6 +1,7 @@
-// 1.21	2025-02-08T15:41:41.1566748	Loot Tables
+// 1.21	2025-02-11T17:06:42.1795315	Loot Tables
 d6af1945411033a9e4644202bbf108d63254dc4b data/lionprojectmod/loot_table/blocks/alexandrite_block.json
 61a45e75f5616129632d5a2bb74542b393ad91b5 data/lionprojectmod/loot_table/blocks/alexandrite_deepslate_ore.json
 09ec7eb9b40006be526788ad4743623f49f61082 data/lionprojectmod/loot_table/blocks/alexandrite_ore.json
+fb79a7a5855ae8076a56c2e3bcab68068e6862b5 data/lionprojectmod/loot_table/blocks/kohlrabi_crop.json
 50a6c9e010156dc92c0ab3e7c906e76fccbcb4f0 data/lionprojectmod/loot_table/blocks/magic_block.json
 731999a04b42be771c2424e3cee544b43d6d8264 data/lionprojectmod/loot_table/blocks/raw_alexandrite_block.json
