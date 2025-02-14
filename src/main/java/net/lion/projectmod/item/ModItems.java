@@ -36,6 +36,16 @@ public class ModItems {
                     super.appendHoverText(pStack, pContext, pTooltipComponents, pTooltipFlag);
                 }
             });
+    public static final RegistryObject<Item> FOOD1 = ITEMS.register("food1",
+            () -> new Item(new Item.Properties().food(ModFoodProperties.FOOD1)));
+    public static final RegistryObject<Item> FOOD2 = ITEMS.register("food2",
+            () -> new Item(new Item.Properties().food(ModFoodProperties.FOOD2)));
+    public static final RegistryObject<Item> FOOD3 = ITEMS.register("food3",
+            () -> new Item(new Item.Properties().food(ModFoodProperties.FOOD3)));
+    public static final RegistryObject<Item> FOOD4 = ITEMS.register("food4",
+            () -> new Item(new Item.Properties().food(ModFoodProperties.FOOD4)));
+    public static final RegistryObject<Item> FOOD5 = ITEMS.register("food5",
+            () -> new Item(new Item.Properties().food(ModFoodProperties.FOOD5)));
 
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);

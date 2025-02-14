@@ -4,10 +4,6 @@
 
   "item.lionprojectmod.chisel": "Chisel",
 
-  "item.lionprojectmod.kohlrabi": "Kohlrabi",
-
-  "block.lionprojectmod.kohlrabi_crop": "Kohlrabi Crop",
-
   "block.lionprojectmod.alexandrite_block": "Block of Alexandrite",
   "block.lionprojectmod.raw_alexandrite_block": "Block of Raw Alexandrite",
   "block.lionprojectmod.alexandrite_ore": "Alexandrite Ore",
@@ -24,6 +20,14 @@
   "tooltip.lionprojectmod.chisel.shift_down": "This Item changes certain Blocks",
   "tooltip.lionprojectmod.chisel": "Press §eShift§r for more Information!",
 
-  "tooltip.lionprojectmod.kohlrabi": "This tastes GREAT!"
+  "tooltip.lionprojectmod.kohlrabi": "This tastes GREAT!",
 
+  "item.lionprojectmod.kohlrabi": "Kohlrabi",
+  "item.lionprojectmod.food1": "Grilled Egg in Banana Leaf",
+  "item.lionprojectmod.food2": "Gaeng Hung Lay",
+  "item.lionprojectmod.food3": "Crab Roe Dip",
+  "item.lionprojectmod.food4": "Galangal Chili Paste with Earthstar Mushrooms",
+  "item.lionprojectmod.food5": "Puffball Mushroom Curry",
+
+  "block.lionprojectmod.kohlrabi_crop": "Kohlrabi Crop"
 }

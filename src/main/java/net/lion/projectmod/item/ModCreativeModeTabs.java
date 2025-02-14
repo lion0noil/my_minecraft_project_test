@@ -51,6 +51,11 @@ public class ModCreativeModeTabs {
                     .title(Component.translatable("creative.lionprojectmod.northern_thai_food"))
                     .displayItems((itemDisplayParameters, output) -> {
                         output.accept(ModItems.KOHLRABI.get());
+                        output.accept(ModItems.FOOD1.get());
+                        output.accept(ModItems.FOOD2.get());
+                        output.accept(ModItems.FOOD3.get());
+                        output.accept(ModItems.FOOD4.get());
+                        output.accept(ModItems.FOOD5.get());
 
 
                     }).build());
