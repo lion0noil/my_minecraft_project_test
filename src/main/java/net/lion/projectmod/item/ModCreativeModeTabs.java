@@ -46,16 +46,36 @@ public class ModCreativeModeTabs {
 
 
     public static final RegistryObject<CreativeModeTab> NORTHERN_THAI_FOOD = CREATIVE_MODE_TABS.register("northern_thai_food",
-            () -> CreativeModeTab.builder().icon(() ->new ItemStack(ModItems.KOHLRABI.get()))
+            () -> CreativeModeTab.builder().icon(() ->new ItemStack(ModItems.FOOD1.get()))
                     .withTabsBefore(ALEXANDRITE_BLOCKS_TAB.getId())
                     .title(Component.translatable("creative.lionprojectmod.northern_thai_food"))
                     .displayItems((itemDisplayParameters, output) -> {
-                        output.accept(ModItems.KOHLRABI.get());
+
                         output.accept(ModItems.FOOD1.get());
                         output.accept(ModItems.FOOD2.get());
                         output.accept(ModItems.FOOD3.get());
                         output.accept(ModItems.FOOD4.get());
                         output.accept(ModItems.FOOD5.get());
+
+                        output.accept(ModItems.FOOD6.get());
+                        output.accept(ModItems.FOOD7.get());
+                        output.accept(ModItems.FOOD8.get());
+                        output.accept(ModItems.FOOD9.get());
+                        output.accept(ModItems.FOOD10.get());
+
+                        output.accept(ModItems.FOOD11.get());
+                        output.accept(ModItems.FOOD12.get());
+                        output.accept(ModItems.FOOD13.get());
+                        output.accept(ModItems.FOOD14.get());
+                        output.accept(ModItems.FOOD15.get());
+
+                        output.accept(ModItems.FOOD16.get());
+                        output.accept(ModItems.FOOD17.get());
+                        output.accept(ModItems.FOOD18.get());
+                        output.accept(ModItems.FOOD19.get());
+                        output.accept(ModItems.FOOD20.get());
+
+                        output.accept(ModItems.FOOD21.get());
 
 
                     }).build());

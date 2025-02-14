@@ -23,11 +23,32 @@
   "tooltip.lionprojectmod.kohlrabi": "This tastes GREAT!",
 
   "item.lionprojectmod.kohlrabi": "Kohlrabi",
+
   "item.lionprojectmod.food1": "Grilled Egg in Banana Leaf",
   "item.lionprojectmod.food2": "Gaeng Hung Lay",
   "item.lionprojectmod.food3": "Crab Roe Dip",
   "item.lionprojectmod.food4": "Galangal Chili Paste with Earthstar Mushrooms",
   "item.lionprojectmod.food5": "Puffball Mushroom Curry",
+
+  "item.lionprojectmod.food6": "Fried Pork with Fish Sauce",
+  "item.lionprojectmod.food7": "Grilled Fermented Pork with Egg",
+  "item.lionprojectmod.food8": "Kanom Jeen Nam Ngiao",
+  "item.lionprojectmod.food9": "Khao Soi Gai",
+  "item.lionprojectmod.food10": "Northern Thai Grilled Chili Dip",
+
+  "item.lionprojectmod.food11": "Stuffed Sweet Chili Peppers",
+  "item.lionprojectmod.food12": "Thai Northern Style Pork and Tomato Relish",
+  "item.lionprojectmod.food13": "Sai Oua",
+  "item.lionprojectmod.food14": "Red Hot Chili Dip",
+  "item.lionprojectmod.food15": "Spicy Chicken Salad",
+
+  "item.lionprojectmod.food16": "Grilled Pork Larb",
+  "item.lionprojectmod.food17": "Khao Kan Chin",
+  "item.lionprojectmod.food18": "Crab Paste Chili Dip",
+  "item.lionprojectmod.food19": "Chicken Kaeng Khai",
+  "item.lionprojectmod.food20": "Sa Jin",
+
+  "item.lionprojectmod.food21": "Sticky Rice",
 
   "block.lionprojectmod.kohlrabi_crop": "Kohlrabi Crop"
 }
