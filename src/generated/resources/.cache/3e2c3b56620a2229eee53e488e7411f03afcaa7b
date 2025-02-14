@@ -1,4 +1,4 @@
-// 1.21	2025-02-14T15:51:31.7381926	Item Models: lionprojectmod
+// 1.21	2025-02-14T22:04:30.7861014	Item Models: lionprojectmod
 de473a53ed54392e39d9beeb3812f1a11cb457f0 assets/lionprojectmod/models/item/alexandrite.json
 9a924491687afa914a6c79ed586c81e0f2cd9167 assets/lionprojectmod/models/item/chisel.json
 88b04d6430c936f7f81229550db32997da755e7b assets/lionprojectmod/models/item/food1.json
@@ -23,4 +23,6 @@ b9e68bae4f4681a7925ca4ec41dd8d743d065979 assets/lionprojectmod/models/item/food2
 efc0362de96924fadfcf553f998188c1d24391d8 assets/lionprojectmod/models/item/food8.json
 cbd854211a71a003dad82b61336639592828f3ad assets/lionprojectmod/models/item/food9.json
 83f9272833dffbcb9189f66a8a0fad6c4c5d5510 assets/lionprojectmod/models/item/kohlrabi.json
+e8496759d863f0ae60c5643a9f4d8721f72dffe0 assets/lionprojectmod/models/item/noodle.json
 cc4cbb87b86a50c61e4497e6f042c8ebd854977e assets/lionprojectmod/models/item/raw_alexandrite.json
+22fecbf3138640fba7fbbfe797743f63829944cf assets/lionprojectmod/models/item/rice.json

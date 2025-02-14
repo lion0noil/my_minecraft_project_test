@@ -19,6 +19,9 @@ public class ModItemModelProvider extends ItemModelProvider {
         basicItem(ModItems.CHISEL.get());
         basicItem(ModItems.KOHLRABI.get());
 
+        basicItem(ModItems.RICE.get());
+        basicItem(ModItems.NOODLE.get());
+
         basicItem(ModItems.FOOD1.get());
         basicItem(ModItems.FOOD2.get());
         basicItem(ModItems.FOOD3.get());
